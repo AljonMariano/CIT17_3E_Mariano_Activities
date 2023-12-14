@@ -1,0 +1,50 @@
+body {
+    background-color: #F5F5F5;  
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.container {
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+
+h2, h3 {
+    color: #CC3366;  
+}
+
+.btn-primary {
+    background-color: #CC3366;
+    border-color: #CC3366;
+}
+
+.btn-primary:hover {
+    background-color: #FF6680;  
+    border-color: #FF6680;
+}
+
+.btn-warning {
+    color: white;
+    background-color: #CC3366;
+    border-color: #CC3366;
+}
+
+.btn-warning:hover {
+    background-color: #FF6680;
+    border-color: #FF6680;
+}
+
+.btn-danger {
+    background-color: #FF6680;
+    border-color: #FF6680;
+}
+
+.btn-danger:hover {
+    background-color: #FF99A6;  
+    border-color: #FF99A6;
+}
+
+table {
+    margin-top: 20px;
+}
